@@ -1,0 +1,15 @@
+{
+  "name": "bored",
+  "version": "0.0.1",
+  "description": "Helper package for bored people.",
+  "main": "index.js",
+  "repository": "git://github.com/lizlam/bored.git",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "bored"
+  ],
+  "author": "Liz Lam",
+  "license": "MIT"
+}
