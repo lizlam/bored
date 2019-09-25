@@ -1,5 +1,5 @@
 {
-  "name": "bored",
+  "name": "@lizlam/bored",
   "version": "0.0.1",
   "description": "Helper package for bored people.",
   "main": "index.js",
