@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Helper package for bored people.",
   "main": "index.js",
-  "repository": "git://github.com/lizlam/bored.git",
+  "repository": "https://github.com/lizlam/bored.git",
   "scripts": {
     "test": "npm test"
   },
@@ -12,5 +12,5 @@
   ],
   "author": "Liz Lam",
   "license": "MIT",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
 }
